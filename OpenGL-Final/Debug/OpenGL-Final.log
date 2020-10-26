@@ -1,0 +1,2 @@
+﻿  glad.c
+G:\文件备份\Program\openGL\网球场模型\OpenGL-Final\glad.c(24,10): fatal error C1083: 无法打开包括文件: “glad/glad.h”: No such file or directory
